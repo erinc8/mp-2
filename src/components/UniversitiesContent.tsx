@@ -8,7 +8,7 @@ export default function UniversitiesContent() {
 
     useEffect(() => {
         async function getUniversities() {
-            const res = await fetch(`http://universities.hipolabs.com/search?country=United+States&limit=${numUniversities}`);
+            const res = await fetch(`https://universities.hipolabs.com/search?country=United+States&limit=${numUniversities}`);
             const data = await res.json();
             setUniversities(data.slice(0, numUniversities));
         }
