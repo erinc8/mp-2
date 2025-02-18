@@ -1,6 +1,5 @@
 import { useState, useEffect } from "react";
 import { UniversityPreview } from "./UniversitiesPreview";
-import { University } from '../type';
 
 
 export default function UniversitiesContent() {
