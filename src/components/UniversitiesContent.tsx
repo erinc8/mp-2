@@ -6,30 +6,15 @@ export default function UniversitiesContent() {
     const [numUniversities, setNumUniversities] = useState(5);
     const [universities, setUniversities] = useState<University[]>([]);
 
-    /*useEffect(() => {
+    useEffect(() => {
         async function getUniversities() {
             const res = await fetch(`http://universities.hipolabs.com/search?country=United+States&limit=${numUniversities}`);
             const data = await res.json();
             setUniversities(data.slice(0, numUniversities));
         }
         getUniversities();
-    }, [numUniversities]);
-*/
+    });
 
-    useEffect(() => {
-        async function getUniversities() {
-            try {
-                const res = await fetch(`http://universities.hipolabs.com/search?country=United+States&limit=${numUniversities}`);
-                if (!res.ok) throw new Error('Failed to fetch');
-                const data = await res.json();
-                setUniversities(data.slice(0, numUniversities));
-            } catch (error) {
-                console.error('Error fetching universities:', error);
-                // Handle error state
-            }
-        }
-        getUniversities();
-    }, [numUniversities]);
 
     return (
         <div>
