@@ -10,8 +10,7 @@ export type University = {
     country: string;
     "state-province": string | null;
     web_pages: string[];
-    domains: string[];
-    alpha_two_code: string;
+
 }
 
 
