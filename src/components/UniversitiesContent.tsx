@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { UniversityPreview } from "./UniversitiesPreview";
-import { University } from "../type.ts";
+import { University } from "../interfaces/type.ts";
 
 export default function UniversitiesContent() {
     const [numUniversities, setNumUniversities] = useState(5);

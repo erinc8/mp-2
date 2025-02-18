@@ -1,4 +1,4 @@
-import { University } from "../type.ts";
+import { University } from "../interfaces/type.ts";
 import styled from "styled-components";
 
 const UniversityPreviewDiv = styled.div`
