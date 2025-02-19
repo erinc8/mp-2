@@ -9,8 +9,6 @@
       <change afterPath="$PROJECT_DIR$/../spr-25-dis-3/src/components/ArtworksListContent.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../spr-25-dis-3/src/type.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mp1" beforeDir="false" afterPath="$PROJECT_DIR$/../mp1" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,11 +79,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739845599999</updated>
-      <workItem from="1739845601080" duration="26174000" />
+      <workItem from="1739845601080" duration="26645000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/main.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/interfaces/type.js" />
+        <option value="$PROJECT_DIR$/src/components/UniversitiesContent.js" />
+        <option value="$PROJECT_DIR$/src/components/UniversitiesPreview.js" />
+      </list>
+    </option>
   </component>
 </project>
