@@ -11,6 +11,7 @@ export type University = {
     "state-province": string | null;
     web_pages: string[];
 
+
 }
 
 
