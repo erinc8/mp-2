@@ -9,19 +9,6 @@
       <change afterPath="$PROJECT_DIR$/../spr-25-dis-3/src/components/ArtworksListContent.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../spr-25-dis-3/src/type.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UniversitiesContent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UniversitiesPreview.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UniversitiesPreview.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UniversitiesPreview.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaces/type.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaces/type.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/type.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mp1" beforeDir="false" afterPath="$PROJECT_DIR$/../mp1" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739845599999</updated>
-      <workItem from="1739845601080" duration="28087000" />
+      <workItem from="1739845601080" duration="28385000" />
     </task>
     <servers />
   </component>
