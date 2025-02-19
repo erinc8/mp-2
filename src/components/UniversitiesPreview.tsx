@@ -2,7 +2,7 @@ import { University } from "../interfaces/type.ts";
 import styled from "styled-components";
 
 const UniversityPreviewDiv = styled.div`
-    margin: 3rem;
+    margin: auto;
     padding: 1rem;
     width: 20rem;
     background-color: darkslategrey;
