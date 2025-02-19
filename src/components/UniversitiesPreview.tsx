@@ -1,5 +1,6 @@
 import { University } from "../interfaces/type.ts";
 import styled from "styled-components";
+import React from "react";
 
 const UniversityPreviewDiv = styled.div`
     margin: auto;
